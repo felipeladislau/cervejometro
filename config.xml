@@ -8,6 +8,7 @@
         4 Steps Apps
     </author>
     <content src="index.html" />
+    <icon src="www/res/icon/icon.png" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
     <preference name="StatusBarOverlaysWebView" value="false" />
